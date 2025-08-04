@@ -1,4 +1,4 @@
-Setting Up Backend 
+1. Setting Up Backend 
 
 cd backend
 npm install
@@ -13,7 +13,7 @@ SECRET_KEY = 'secret-key'
 
 Instead of this link write your database link.
 
- Setting Up Frontend
+2. Setting Up Frontend
 
 cd frontend
 npm install
